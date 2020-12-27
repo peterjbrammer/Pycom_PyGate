@@ -1,6 +1,6 @@
 # Pycom_PyGate
 Created December 2020 \
-Pycom Pygate and Pycom Lopy 4 Confinguration \
+Pycom Pygate and Pycom Lopy 4 Configuration \
 Lora AU915 Frequency Configuration
 
 ## main.py
