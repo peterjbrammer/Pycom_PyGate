@@ -12,3 +12,10 @@ Lora Frequency Configuration for AU915
 # Installation
 Using Atom with Pymaker plug in connect to pygate expansion board, upload both the main.py & config.json. \
 Register gateway on TTN Network
+
+# References
+https://docs.pycom.io/tutorials/expansionboards/pygate/
+
+# Config file:
+https://github.com/TheThingsNetwork/gateway-conf
+https://github.com/TheThingsNetwork/gateway-conf/blob/master/AU-global_conf.json
