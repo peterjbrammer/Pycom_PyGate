@@ -210,7 +210,11 @@
 	"push_timeout_ms": 100,
 	"forward_crc_valid": true,
 	"forward_crc_error": false,
-	"forward_crc_disabled": false
+	"forward_crc_disabled": false,
+	"fake_gps": true,
+  "ref_latitude": -31.935680,
+  "ref_longitude": 115.800470,
+  "ref_altitude": 2
 	}
 
 }
