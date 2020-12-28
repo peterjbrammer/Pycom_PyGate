@@ -51,4 +51,4 @@ buf = fp.read()
 # Start the Pygate
 machine.pygate_init(buf)
 # disable degub messages
-# machine.pygate_debug_level(1)
+machine.pygate_debug_level(1)
