@@ -19,3 +19,5 @@ https://docs.pycom.io/tutorials/expansionboards/pygate/
 # Config file:
 https://github.com/TheThingsNetwork/gateway-conf
 https://github.com/TheThingsNetwork/gateway-conf/blob/master/AU-global_conf.json
+
+Updated main.py to use the config_new.py file, taken from the links above.
