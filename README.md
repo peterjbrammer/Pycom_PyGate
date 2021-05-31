@@ -21,3 +21,13 @@ https://github.com/TheThingsNetwork/gateway-conf
 https://github.com/TheThingsNetwork/gateway-conf/blob/master/AU-global_conf.json
 
 Updated main.py to use the config_new.py file, taken from the links above.
+
+Lat Lon Details for 22 Highbury Street
+
+-31.935680
+115.800470
+
+Updates 31st May 2021.
+Moved to TTN V3
+Using global_conf.json for config details.
+
