@@ -7,8 +7,9 @@ Lora AU915 Frequency Configuration
 Code to be uploaded to the pycom project
 
 ## config.json
+No LONGER USED
 Original Lora Frequency Configuration for AU915
-Replaced by config_new.json december 2020
+Replaced by config_new.json December 2020
 ## config_new.json
 Updated Config file with more details in it
 
