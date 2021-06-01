@@ -7,7 +7,10 @@ Lora AU915 Frequency Configuration
 Code to be uploaded to the pycom project
 
 ## config.json
-Lora Frequency Configuration for AU915
+Original Lora Frequency Configuration for AU915
+Replaced by config_new.json december 2020
+## config_new.json
+Updated Config file with more details in it
 
 # Installation
 Using Atom with Pymaker plug in connect to pygate expansion board, upload both the main.py & config.json. \
