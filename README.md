@@ -13,6 +13,9 @@ Replaced by config_new.json December 2020
 ## config_new.json
 Updated Config file with more details in it
 
+## global_conf.json
+COnfig file fro TTN V3
+
 # Installation
 Using Atom / VSCode with Pymaker plug in connect to pygate expansion board, upload both the main.py & config.json. \
 Register gateway on TTN Network
