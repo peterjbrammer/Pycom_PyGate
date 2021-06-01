@@ -46,7 +46,7 @@ print(" OK\n")
 
 # Read the GW config file from Filesystem
 # fp = open('/flash/config_new.json','r') old version
-fp = open('/flash/global_conf.json','r')
+fp = open('/flash/config_new.json','r')
 
 buf = fp.read()
 
